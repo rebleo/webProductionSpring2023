@@ -1,5 +1,64 @@
 body {
     background-color: pink;
-    font-size: 200px
+    font-size: 200px;
+    font-family: 'IBM Plex Sans', sans-serif;
+
+}
+/* this is a comment. humans can read them but not the machine.  */
+/* https://fonts.google.com/ */
+details {
+    background-color: blue;
+    font-size: 26px;
+    padding: 40px;
+    border-radius: 100px;
 }
 
+div {
+    background-color: yellow;
+    display: flex;
+  
+}
+div:hover {
+  background-color: pink;
+}
+button {
+    /* background-color: black; */
+    font-size: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 200px;
+    border: none;
+    padding: 40px;
+}
+main {
+    border-radius: 11000px;
+    background-color: green;
+}
+summary {
+    background-color: yellow;
+}
+a {
+    text-decoration: none;
+}
+#theSpecial {
+    background-color: white;
+}
+p {
+    font-size: 36px;
+
+}
+
+.theHover {
+    background-color: red;
+    padding: 2px;
+    border: solid 10px black;
+    margin: 100px;
+    text-align: center;
+}
+a:visited {
+    color: green;
+}
+.theHover:hover {
+    color: white;
+    font-size: 100px;
+}
