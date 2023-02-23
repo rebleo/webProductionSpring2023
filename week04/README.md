@@ -1,7 +1,3 @@
-##### CSS Positioning Studio!
-  * with a partner create a WoS inspired website using this [MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
-
-
 ##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
 
 ![theBoxModel](boxModel.png)
