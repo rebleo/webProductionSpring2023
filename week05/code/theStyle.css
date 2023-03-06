@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: green;
+
+}
+
+h1 {
+    font-size: 3vh;
+}
+img {
+    width: 40vw;
+}
+/* parent flex box */
+ul {
+    background-color: yellow;
+    display: flex;
+   justify-content: space-around;
+
+}
+/* 
+flex items */
+li {
+    
+    padding: 10px;
+    margin: 10px;
+    border: solid black 1px;
+    background-color: blue;
+    border-radius: 100%;
+    list-style-type: none;
+}
+
+li:hover{
+    color: white;
+}

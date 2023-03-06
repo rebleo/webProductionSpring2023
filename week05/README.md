@@ -14,10 +14,9 @@ With a partner, choose 1 artwork from either the [Rhizome's net.art Anthology](h
 * Post a link to your net.art Presentation Web Site (Slide Deck) 
 * Remember this is a presentation to the class. We should hear from both people in the partnership. And if you want to somehow make yr presention interactive // inspired by the work you reserached - that's even better!
 
-#### For Monday March 06:
-Come to class having looked through [Rhizome's net.art Anthology](https://anthology.rhizome.org/) and [Chronus Art Center's WE-LINK online exhibitions](http://we-link.chronusartcenter.org/) 
 
-Research which artwork you would like to present. Come to class ready to discuss with your partner and once you decide post a link to the work by your names [here](https://github.com/rebleo/webProductionSpring2023/wiki/Week-05#netart-pairs--projects). **You can not do an artwork that has been posted by another pair!!** 
+Look through [Rhizome's net.art Anthology](https://anthology.rhizome.org/) and [Chronus Art Center's WE-LINK online exhibitions](http://we-link.chronusartcenter.org/) 
+Discuss with your partner and once you decide post a link to the work by your names [here](https://github.com/rebleo/webProductionSpring2023/wiki/Week-05#netart-pairs--projects). **You can not do an artwork that has been posted by another pair!!** 
 
 
 #### Assignment for Monday March 13: No class - use this time as a code studio
